@@ -1,0 +1,42 @@
+D:\projects\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.exe
+D:\projects\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.deps.json
+D:\projects\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.runtimeconfig.json
+D:\projects\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.dll
+D:\projects\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.pdb
+D:\projects\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.AssemblyInfoInputs.cache
+D:\projects\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.AssemblyInfo.cs
+D:\projects\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.csproj.CoreCompileInputs.cache
+D:\projects\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.dll
+D:\projects\FlightDispatcher\obj\Debug\net8.0-windows\refint\FlightDispatcher.dll
+D:\projects\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.pdb
+D:\projects\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.genruntimeconfig.cache
+D:\projects\FlightDispatcher\obj\Debug\net8.0-windows\ref\FlightDispatcher.dll
+F:\C# Projects\A3_Correct\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.exe
+F:\C# Projects\A3_Correct\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.deps.json
+F:\C# Projects\A3_Correct\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.runtimeconfig.json
+F:\C# Projects\A3_Correct\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.dll
+F:\C# Projects\A3_Correct\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.pdb
+F:\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.AssemblyInfoInputs.cache
+F:\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.AssemblyInfo.cs
+F:\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.csproj.CoreCompileInputs.cache
+F:\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.dll
+F:\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\refint\FlightDispatcher.dll
+F:\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.pdb
+F:\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.genruntimeconfig.cache
+F:\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\ref\FlightDispatcher.dll
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.exe
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.deps.json
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.runtimeconfig.json
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.dll
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\bin\Debug\net8.0-windows\FlightDispatcher.pdb
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.AssemblyInfoInputs.cache
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.AssemblyInfo.cs
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.csproj.CoreCompileInputs.cache
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.dll
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\refint\FlightDispatcher.dll
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.pdb
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\FlightDispatcher.genruntimeconfig.cache
+F:\Projects\C# Projects\A3_Correct\FlightDispatcher\obj\Debug\net8.0-windows\ref\FlightDispatcher.dll
